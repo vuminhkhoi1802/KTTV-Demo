@@ -1,0 +1,17 @@
+export default {
+  primary: '#00a8e0',
+  primaryDark: '#c67306',
+  primaryLight: '#fab152',
+  white: '#ffffff',
+  black: '#000000',
+  grey: '#ccc',
+  home: '#F47421',
+  profileText: '#1aa3ff',
+  yellowStatus: '#e6e600',
+  greenStatus: '#33cc33',
+  blueStatus: '#4d94ff',
+  redStatus: '#ff3333',
+  grey: '#ccc',
+  button: '#017DC3',
+  buttonText: '#ffffff',
+};

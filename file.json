@@ -1,0 +1,90 @@
+{
+    "update_time": 1554719751.005535,
+    "location": "Hà Nội",
+    "tsrf": 13.03,
+    "rhsrf": 95.19,
+    "weather": "Nắng",
+    "windSpeed" : 3,
+    "future": [
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 13.03,
+            "degrees_max": 17.13,
+            "weather": "Nắng"
+        },
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 15.27,
+            "degrees_max": 22.57,
+            "weather": "Nắng"
+        },
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 15.8,
+            "degrees_max": 18.74,
+            "weather": "Nắng"
+        },
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 17.96,
+            "degrees_max": 21.86,
+            "weather": "Nắng"
+        },
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 18.07,
+            "degrees_max": 20.72,
+            "weather": "Nắng"
+        },
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 17.15,
+            "degrees_max": 18.42,
+            "weather": "Nắng"
+        },
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 17.09,
+            "degrees_max": 22.15,
+            "weather": "Nắng"
+        },
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 19.24,
+            "degrees_max": 25.59,
+            "weather": "Nắng"
+        },
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 15.84,
+            "degrees_max": 20.12,
+            "weather": "Nắng"
+        },
+        {
+            "id": "10",
+            "day": "Thứ Tư",
+            "humid": 29,
+            "degrees_min": 15.38,
+            "degrees_max": 18.89,
+            "weather": "Nắng"
+        }
+    ]
+}
